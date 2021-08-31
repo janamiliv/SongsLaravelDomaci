@@ -4,9 +4,9 @@
             {{ __('Izmeni pesmu') }}
         </h2>
     </x-slot>
-    <div class="py-12" style="background-color:#009900">
+    <div class="py-12" style="background-color:#ffa7b6">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-        <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg p-5" style="background-color:#99ff99">
+        <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg p-5" style="background-color:#FFC0CB">
                 <form method="POST" action="/song">
                     <div style="display:flex; justify-content:space-between">
                         <div class="form-group">
